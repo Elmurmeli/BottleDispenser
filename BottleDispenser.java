@@ -19,7 +19,8 @@ public class BottleDispenser {
 
         bottles = 5;
         money = 0;
-
+        
+        
         bottle_list = new ArrayList();
         bottle_list.add(new bottle("Pepsi Max", "Pepsi", 1.0, 0.5, 1.8));
         bottle_list.add(new bottle("Pepsi Max", "Pepsi", 1.0, 1.5, 2.2));
